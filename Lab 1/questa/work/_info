@@ -1,0 +1,76 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2024.1/examples
+T_opt
+!s110 1771260034
+VcU0UUR3caMgG@YcO_Hc0L3
+04 11 4 work and_gate_tb fast 0
+=1-c8f750365380-6993487f-36f-5424
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vand_gate
+2D:/Digital Systems/Lab 1/src/and.gate.sv
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1771259981
+!i10b 1
+!s100 =WiRN]UkIUMJgAXNK]5gO2
+I0TK^H;ze;gXW5?TicXUSW0
+S1
+Z3 dD:/Digital Systems/Lab 1/questa
+w1770800432
+8D:/Digital Systems/Lab 1/src/and.gate.sv
+FD:/Digital Systems/Lab 1/src/and.gate.sv
+!i122 0
+L0 1 9
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2024.1;79
+r1
+!s85 0
+31
+!s108 1771259980.000000
+!s107 D:/Digital Systems/Lab 1/src/and.gate.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Systems/Lab 1/src/and.gate.sv|
+!i113 0
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vand_gate_tb
+2D:/Digital Systems/Lab 1/sim/and.gate_tb.sv
+R2
+!s110 1771259982
+!i10b 1
+!s100 Zbe6><F:MVNJN]8FKJQKG0
+I=IL?5Km;z]6fbJ13WZf?F0
+S1
+R3
+w1771071009
+8D:/Digital Systems/Lab 1/sim/and.gate_tb.sv
+FD:/Digital Systems/Lab 1/sim/and.gate_tb.sv
+!i122 1
+L0 1 30
+R4
+R5
+r1
+!s85 0
+31
+!s108 1771259982.000000
+!s107 D:/Digital Systems/Lab 1/sim/and.gate_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Systems/Lab 1/sim/and.gate_tb.sv|
+!i113 0
+R6
+R1
